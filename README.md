@@ -1,6 +1,6 @@
 # CaptainMod
 
-Pandapip1's captain mod adds a new role, the captain, that can call a meeting from anywhere and can zoom out. Idea borrowed from Bakpak and Launchpad. If you want to play this mod, don't want bugs, and want more features, use Launchpad instead. This is more a reference for other modders.
+Pandapip1's captain mod adds a new role, the captain, that can call a meeting from anywhere and can zoom out. Idea borrowed from Bakpak and Launchpad. If you want to play this mod, don't want bugs, and want more features, use Launchpad instead: http://discord.gg/allofus. This is more a reference for other modders.
 
 Download the mod here: https://github.com/Pandapip1/CaptainMod/raw/main/Pandapip1s_Captain_Mod-2020.12.9s.dll
 
